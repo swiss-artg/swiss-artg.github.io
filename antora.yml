@@ -1,0 +1,6 @@
+name: ROOT
+title: SWISS-ARTG
+version: ~
+start_page: ROOT:index.adoc
+nav:
+- modules/ROOT/nav.adoc
